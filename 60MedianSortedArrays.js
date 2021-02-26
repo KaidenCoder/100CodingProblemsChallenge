@@ -10,3 +10,17 @@ var findMedianSortedArrays = function (nums1, nums2) {
     let m = n >> 1;
     return n & 1 ? res[m] : (res[m - 1] + res[m]) / 2;
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
